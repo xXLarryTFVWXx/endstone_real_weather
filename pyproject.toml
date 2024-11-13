@@ -9,6 +9,7 @@ dependencies = []
 authors = [
     { name = "Endstone Developers", email = "hello@endstone.dev" },
     { name = "Huang FTS427", email = "FTS427@outlook.com" },
+    { name = "xXLarryTFVWXx", email = "Please.No@example.com" },
 ]
 description = "Make the weather of your server is real life's weather"
 readme = "README.md"
